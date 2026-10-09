@@ -52,7 +52,7 @@ my-profile/
 │   ├── js/
 │   ├── images/
 │   └── các trang HTML
-├── .env.example
+├── .env
 ├── package.json
 └── README.md
 ```
