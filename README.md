@@ -1,4 +1,4 @@
-# 🎀 My Profile — Pastel Bunny Portfolio
+# 🎀 My Profile
 
 Chào mừng bạn đến với website cá nhân của mình! 🌷🐰
 
